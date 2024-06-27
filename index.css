@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin:0;
+    
+    font-family: cursive;
+}
+.button{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display:inline-block;
+    
+}
+#grey{
+    background-color: grey;
+}
+#red{
+    background-color: red;
+}
+#pink{
+    background-color: pink;
+}
+#purple{
+    background-color: purple;
+}
+#black{
+    background-color: black;
+}
